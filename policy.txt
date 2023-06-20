@@ -1,4 +1,4 @@
-working with the HBS policies
+working with HBS policies
 policies history
 user history
 eligibility
